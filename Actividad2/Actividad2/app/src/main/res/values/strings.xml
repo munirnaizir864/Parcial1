@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calcular</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="Bienvenido">Digite Valores</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="Punto_Medio">Punto Medio</string>
+    <string name="Cuadrante">Cuadrante</string>
+    <string name="Valor_X1">X1</string>
+    <string name="Valor_y1">Y1</string>
+    <string name="Valor_x2">X2</string>
+    <string name="valor_y2">Y2</string>
+    <string name="Valor1">Empleado</string>
+    <string name="Valor2">Salario</string>
+    <string name="Valor3">Horas Extras</string>
+    <string name="Valor4">Vlr Hra Extra</string>
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="Bienvenido1">BIENVENIDO</string>
+    <string name="User">USER ACTIVO</string>
+    <string name="pension">Pension 4%</string>
+    <string name="salud">Salud 4%</string>
+    <string name="salario">Salario Total</string>
+</resources>
